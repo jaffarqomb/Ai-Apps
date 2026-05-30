@@ -1,0 +1,6 @@
+{
+  "name": "Expense Tracker",
+  "description": "An expense tracker featuring AI receipt scanning, category budget tracking, dynamic analytics, and financial report exports.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
